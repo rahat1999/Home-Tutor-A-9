@@ -11,7 +11,7 @@ const Header = () => {
     return (
         <Navbar className="bg-secondary mb-5" expand="lg">
             <Container>
-                <Navbar.Brand href="#home"><h3 className="text-white">Home Tutor Services</h3> </Navbar.Brand>
+                <Navbar.Brand href="#home"><h3 className="text-white"><span className='header-title'>Home Tutor Services</span> </h3> </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto text-white">

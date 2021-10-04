@@ -15,6 +15,8 @@ import LoginForm from './Components/LoginForm/LoginForm';
 import Faq from './Components/Faq/Faq';
 import About from './Components/About/About';
 import Home from './Components/Home/Home';
+import PageNotFound from "./Components/PageNotFound/PageNotFound";
+
 
 function App() {
   return (
@@ -46,9 +48,12 @@ function App() {
           <Route path="/login">
             <LoginForm></LoginForm>
           </Route>
+
+          <Route path="/*">
+            <PageNotFound></PageNotFound>
+          </Route>
+
         </Switch>
-
-
         <Footer></Footer>
       </Router>
     </div>

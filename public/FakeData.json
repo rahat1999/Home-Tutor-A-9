@@ -6,7 +6,7 @@
         "gender": "Male",
         "subject": "Bangla",
         "courseDuration": "1 hour",
-        "img": "https://lh3.googleusercontent.com/BWAK6Lq0RHseDcJodk09KrDDWHiPNtdDXioq3go6gNRjclH8eh0aQeR2GWQIm2RVluVLcg=s162"
+        "img": "https://images.unsplash.com/photo-1601655781320-205e34c94eb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "gender": "Female",
         "subject": "English",
         "courseDuration": "1 hour",
-        "img": "https://lh3.googleusercontent.com/q6cf8whN6Zqz5-eCKlajjlUsY0nGkKT7Q8gtKp5D4G5Gz-E7GA0yPqxt0dknmoxollq_=s113"
+        "img": "https://media.istockphoto.com/photos/lady-sitting-at-desk-using-computer-and-waving-to-webcam-picture-id1288103838?b=1&k=20&m=1288103838&s=170667a&w=0&h=0QFzdzQY7GDlaMbfmq1Xf-aaYYC2QXt4GXXnnW3UC-Q="
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "gender": "Male",
         "subject": "Math",
         "courseDuration": "1 hour",
-        "img": "https://lh3.googleusercontent.com/t-BCy8hRHtfJSjUA1tB6g2-GmMXQraoGtvu4MaUYUxMYTeEWF9BP4zyYDUlxbc2edgcvcmA=s113"
+        "img": "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "gender": "Male",
         "subject": "H.M Math",
         "courseDuration": "1.30 hour",
-        "img": "https://lh3.googleusercontent.com/iOU9RkGDcEdtKyrxblY5C_UrIE4popkEELqx78870HeZmkH0GBBcwUyi6d-aAEd1J4RBGSo=s152"
+        "img": "https://images.unsplash.com/photo-1562693313-2ef8cef483a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "gender": "Male",
         "subject": "Physics",
         "courseDuration": "2 hour",
-        "img": "https://lh3.googleusercontent.com/A7w_C3hgjyYl0L6v5PfTURqi6qlPLmiQKNbUnGRJn6nz4_GGZTIiY0Ldb9iObhrejHts8w=s128"
+        "img": "https://images.unsplash.com/photo-1573166364524-d9dbfd8bbf83?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=869&q=80"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "gender": "Female",
         "subject": "Biology",
         "courseDuration": "1.20 hour",
-        "img": "https://lh3.googleusercontent.com/vNyJU9_zAw13q342i1bPq-UYjvPOIq609NQkOH9J38icOkdxlQNwABJSUvEPROOZSN5prQ=s128"
+        "img": "https://images.unsplash.com/photo-1573496799652-408c2ac9fe98?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=869&q=80"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "gender": "Male",
         "subject": "Chemistry",
         "courseDuration": "1 hour",
-        "img": "https://lh3.googleusercontent.com/XztBI8ScrCAWbXCpCb9Uf-xR4TPBqHRDtxNEVkZvMehAJKW7l27kVwjNqDGve_pj4kyFR7M=s170"
+        "img": "https://images.unsplash.com/photo-1562788869-4ed32648eb72?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
     },
     {
         "id": 8,
@@ -76,8 +76,8 @@
         "price": 4000,
         "teacher": " Shariar Sakib ",
         "gender": "Male",
-        "subject": "Islam Sikkha",
+        "subject": "Botany",
         "courseDuration": "1 hour",
-        "img": "https://lh3.googleusercontent.com/I9QWP9KwBOYwpFHsrDOcfPAViISkY5wDkKkAbJs-NU48iDa84pkiZkKoxRsTXwZUYwBEEA=s128"
+        "img": "https://images.unsplash.com/photo-1561677843-39dee7a319ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     }
 ]
