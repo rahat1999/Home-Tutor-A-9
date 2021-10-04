@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "price": 3000,
+        "teacher": "Mahmud Hasna",
+        "gender": "Male",
+        "subject": "Bangla",
+        "courseDuration": "1 hour",
+        "img": "https://lh3.googleusercontent.com/BWAK6Lq0RHseDcJodk09KrDDWHiPNtdDXioq3go6gNRjclH8eh0aQeR2GWQIm2RVluVLcg=s162"
+    },
+    {
+        "id": 2,
+        "price": 4500,
+        "teacher": "Samima Mishu",
+        "gender": "Female",
+        "subject": "English",
+        "courseDuration": "1 hour",
+        "img": "https://lh3.googleusercontent.com/q6cf8whN6Zqz5-eCKlajjlUsY0nGkKT7Q8gtKp5D4G5Gz-E7GA0yPqxt0dknmoxollq_=s113"
+    },
+    {
+        "id": 3,
+        "price": 4000,
+        "teacher": "Siam Mallik",
+        "gender": "Male",
+        "subject": "Math",
+        "courseDuration": "1 hour",
+        "img": "https://lh3.googleusercontent.com/t-BCy8hRHtfJSjUA1tB6g2-GmMXQraoGtvu4MaUYUxMYTeEWF9BP4zyYDUlxbc2edgcvcmA=s113"
+    },
+    {
+        "id": 4,
+        "price": 4500,
+        "teacher": "Ashraf Feroj",
+        "gender": "Male",
+        "subject": "H.M Math",
+        "courseDuration": "1.30 hour",
+        "img": "https://lh3.googleusercontent.com/iOU9RkGDcEdtKyrxblY5C_UrIE4popkEELqx78870HeZmkH0GBBcwUyi6d-aAEd1J4RBGSo=s152"
+    },
+    {
+        "id": 5,
+        "price": 5000,
+        "teacher": "Rased Khan",
+        "gender": "Male",
+        "subject": "Physics",
+        "courseDuration": "2 hour",
+        "img": "https://lh3.googleusercontent.com/A7w_C3hgjyYl0L6v5PfTURqi6qlPLmiQKNbUnGRJn6nz4_GGZTIiY0Ldb9iObhrejHts8w=s128"
+    },
+    {
+        "id": 6,
+        "price": 4200,
+        "teacher": "Sujana Afroj",
+        "gender": "Female",
+        "subject": "Biology",
+        "courseDuration": "1.20 hour",
+        "img": "https://lh3.googleusercontent.com/vNyJU9_zAw13q342i1bPq-UYjvPOIq609NQkOH9J38icOkdxlQNwABJSUvEPROOZSN5prQ=s128"
+    },
+    {
+        "id": 7,
+        "price": 5500,
+        "teacher": "Rakib Hossain",
+        "gender": "Male",
+        "subject": "Chemistry",
+        "courseDuration": "1 hour",
+        "img": "https://lh3.googleusercontent.com/XztBI8ScrCAWbXCpCb9Uf-xR4TPBqHRDtxNEVkZvMehAJKW7l27kVwjNqDGve_pj4kyFR7M=s170"
+    },
+    {
+        "id": 8,
+        "price": 3500,
+        "teacher": "Mahmud Hasna",
+        "gender": "Male",
+        "subject": "Socilogy",
+        "courseDuration": "1 hour",
+        "img": "https://lh3.googleusercontent.com/I9QWP9KwBOYwpFHsrDOcfPAViISkY5wDkKkAbJs-NU48iDa84pkiZkKoxRsTXwZUYwBEEA=s128"
+    },
+    {
+        "id": 9,
+        "price": 4000,
+        "teacher": " Shariar Sakib ",
+        "gender": "Male",
+        "subject": "Islam Sikkha",
+        "courseDuration": "1 hour",
+        "img": "https://lh3.googleusercontent.com/I9QWP9KwBOYwpFHsrDOcfPAViISkY5wDkKkAbJs-NU48iDa84pkiZkKoxRsTXwZUYwBEEA=s128"
+    }
+]
