@@ -1,0 +1,29 @@
+
+.hero-image {
+  background-image:url('./studyboy-removebg.png') ;
+  /* Set a specific height */
+  height: 100vh;
+  background-position:center top ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+ 
+   margin-top: 25%;
+   color:orange;
+   text-shadow: -2px -2px #5e5e5e;
+   text-align:justify;
+   transition: .9s;
+ }
+ .hero-text:hover{
+     transform: scale(1.1);
+ }
+ @media only screen and (max-width: 550px) {
+  .hero-text{
+      font-size: 22px;
+  }
+  
+}

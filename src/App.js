@@ -7,7 +7,7 @@ import {
 
 } from "react-router-dom";
 import './App.css';
-// import Courses from './Components/Courses/Courses';
+
 import Footer from './Components/Footer/Footer';
 import Header from './Components/Header/Header';
 import AllCourses from './Components/AllCourses/AllCourses';
@@ -20,33 +20,46 @@ import PageNotFound from "./Components/PageNotFound/PageNotFound";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Router>
-        <Header></Header>
 
         <Switch>
           <Route exact path="/">
+            <Header></Header>
             <Home></Home>
+            <Footer></Footer>
           </Route>
           <Route exact path="/home">
+            <Header></Header>
             <Home></Home>
+            <Footer></Footer>
           </Route>
           <Route path="/allCourses">
+            <Header></Header>
             <AllCourses></AllCourses>
+            <Footer></Footer>
           </Route>
 
           <Route path="/about">
+            <Header></Header>
             <About></About>
+            <Footer></Footer>
           </Route>
 
           <Route path="/faq">
+            <Header></Header>
             <Faq></Faq>
+            <Footer></Footer>
           </Route>
           <Route path="/faq">
+            <Header></Header>
             <Faq></Faq>
+            <Footer></Footer>
           </Route>
           <Route path="/login">
+            <Header></Header>
             <LoginForm></LoginForm>
+            <Footer></Footer>
           </Route>
 
           <Route path="/*">
@@ -54,7 +67,6 @@ function App() {
           </Route>
 
         </Switch>
-        <Footer></Footer>
       </Router>
     </div>
   );

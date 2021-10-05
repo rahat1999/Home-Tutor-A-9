@@ -1,0 +1,12 @@
+.faq-container{
+  text-align: center;
+}
+.faq-title{
+color:orange;
+text-shadow: 1px 1px gray;
+}
+@media only screen and (max-width: 550px) {
+    .faq-container{
+        width: 300px;
+    }
+  }

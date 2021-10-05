@@ -1,6 +1,14 @@
 .images{
-    box-shadow: gray 4px -3px 3px 0 ;
-}
+    box-shadow: gray -4px 4px 3px 0 ;
+    width: 350px ;
+    height:250px;
+    }
 .hire-button{
     width:130px;
 }
+@media only screen and (max-width: 550px) {
+    .images{
+        width: 250px;
+        height: 150px;
+    }
+  }
