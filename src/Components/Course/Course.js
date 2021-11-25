@@ -21,7 +21,7 @@ const Course = (props) => {
                             <p>Monthly Tuition fees: <b>{price} TK</b></p>
                             <p>Duration: {courseDuration}</p>
                             <p className="card-text">
-                                <Link to=''>
+                                <Link to='/login'>
                                     <Button className="hire-button" variant="warning"><i className="fas fa-angle-right"></i> Hire Teacher</Button>{' '}
                                 </Link>
                             </p>
